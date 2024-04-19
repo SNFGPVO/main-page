@@ -1,2 +1,2 @@
-# this is just a main page,l0
+# this is just a main page
 MAIN PAGE OF ALL THINGY
